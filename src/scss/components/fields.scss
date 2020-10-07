@@ -24,3 +24,10 @@
 
   user-select: none;
 }
+
+.field__container {
+  display: flex;
+  justify-content: center;
+
+  padding: 40px;
+}
